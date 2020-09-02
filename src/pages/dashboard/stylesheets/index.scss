@@ -1,0 +1,7 @@
+@import '../../../assets/common.scss';
+.wrapper-container {
+  @extend %align-center;
+  font-size: 30px;
+  margin: 0 auto;
+  height: 90vh;
+}
